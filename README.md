@@ -31,3 +31,47 @@ To get started, you'll need to have the following installed on your system:
 
    ```bash
    git clone https://github.com/irmaknehir/recipe_book.git
+### 🎬 Usage
+After setting up the project, you can run the application using the following command:
+
+```bash
+python main.py
+```
+
+Once the application starts, you'll see a simple menu with the following options:
+
+- **List Recipes**: View all recipes stored in the database.
+- **Add a New Recipe**: Add a new recipe by providing a name, ingredients, and instructions.
+- **Delete a Recipe**: Delete a recipe by its ID.
+- **Exit**: Close the application.
+
+---
+
+### 🤝 Contributing
+I welcome contributions! If you'd like to contribute to this project, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch: 
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes: 
+   ```bash
+   git commit -m 'Add new feature'
+   ```
+4. Push to the branch: 
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a Pull Request.
+
+---
+
+### 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+### 🍴 Enjoy Cooking! 🍳
+
+
