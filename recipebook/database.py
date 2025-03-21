@@ -1,8 +1,8 @@
 import psycopg2
 
 DB_NAME = "recipebook"
-DB_USER = "postgres"
-DB_PASSWORD = "basual123"
+DB_USER = "your_username"
+DB_PASSWORD = "your_password"
 DB_HOST = "localhost"
 DB_PORT = "5432"
 
