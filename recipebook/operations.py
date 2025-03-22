@@ -9,7 +9,7 @@ def add_recipe(name, ingredients, instructions):
             VALUES (%s, %s, %s)
             RETURNING id;
         """, (name, ingredients, instructions))
-        recipe_id = cursor.fetchone()[0]  # Burada dönen ilk satırdaki id'yi alıyoruz
+        recipe_id = cursor.fetchone()[0]  
         conn.commit() 
         cursor.close()
         conn.close()
