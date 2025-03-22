@@ -48,7 +48,7 @@ Once the application starts, you'll see a simple menu with the following options
 ---
 
 ### 🤝 Contributing
-I welcome contributions! If you'd like to contribute to this project, follow these steps:
+If you'd like to contribute to this project, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch: 
